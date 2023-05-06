@@ -1,18 +1,18 @@
 // Config for the entire site.
 module.exports = {
   // Site title.
-  title: "Hariom Seth",
+  title: "Ankur Taneja",
 
   // Default description for pages. Provide "description" in the front matter of
   // a page to override this.
-  description: "Contact information for Hariom Seth",
+  description: "Contact information for Ankur Taneja",
 
   // Site URLs.
-  baseUrl: "https://www.hariomseth.com", // No slash at the end.
-  shortBaseUrl: "www.hariomseth.com", // Same as baseUrl but without http or https.
+  baseUrl: "https://www.ankurtaneja.com", // No slash at the end.
+  shortBaseUrl: "www.ankurtaneja.com", // Same as baseUrl but without http or https.
 
   // Your name.
-  name: "Hariom Seth",
+  name: "Ankur Taneja",
 
   // Profile picture on home page. Set to null to leave out.
   profilePic: {
@@ -25,7 +25,7 @@ module.exports = {
 
   // Tagline that shows up below the profile picture on the home page and below
   // the name on the business card. Set to null to leave out.
-  tagline: "Founder & Chief Creative Technologist at Tagglabs",
+  tagline: "Tech Evangelist at Tagglabs",
 
   // Path to Open Graph image. Change this URL whenever the image changes so
   // that sites like FB change their preview. Set to null to leave out.
@@ -50,37 +50,23 @@ module.exports = {
   //     colors.
   links: [
     {
-      name: "Website",
-      desc: "hariomseth.com",
-      url: "https://www.hariomseth.com",
-      fa: "fas fa-globe-americas",
-      textColor: "text-website",
-    },
-    {
       name: "Email",
-      desc: "hari@tagglabs.in",
-      url: "mailto:hari@tagglabs.in",
+      desc: "ankur@tagglabs.in",
+      url: "mailto:ankur@tagglabs.in",
       fa: "fas fa-envelope",
       textColor: "text-gray-600",
     },
     {
-      name: "Twitter",
-      desc: "@HariomSeth",
-      url: "https://twitter.com/HariomSeth",
-      fa: "fab fa-twitter",
-      textColor: "text-twitter",
-    },
-    {
       name: "LinkedIn",
-      desc: "@shariom",
-      url: "https://www.linkedin.com/in/shariom/",
+      desc: "@Ankur Taneja",
+      url: "https://www.linkedin.com/in/ankur8187/",
       fa: "fab fa-linkedin",
       textColor: "text-linkedin",
     },
      {
       name: "Instagram",
-      desc: "@harioms",
-      url: "https://www.instagram.com/harioms/",
+      desc: "@beacon.of_hope",
+      url: "https://www.instagram.com/beacon.of_hope/",
       fa: "fab fa-instagram",
       textColor: "text-instagram",
     },
