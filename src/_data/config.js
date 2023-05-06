@@ -57,6 +57,13 @@ module.exports = {
       textColor: "text-gray-600",
     },
     {
+      name: "Twitter",
+      desc: "@@AnkurTaneja10",
+      url: "https://twitter.com/ankurtaneja10",
+      fa: "fab fa-twitter",
+      textColor: "text-twitter",
+    },
+    {
       name: "LinkedIn",
       desc: "@Ankur Taneja",
       url: "https://www.linkedin.com/in/ankur8187/",
