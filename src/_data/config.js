@@ -16,12 +16,12 @@ module.exports = {
 
   // Profile picture on home page. Set to null to leave out.
   profilePic: {
-    best: "https://d35hr0os3yc7ki.cloudfront.net/hariomseth/Hariomseth.jpg",
-    small: "https://d35hr0os3yc7ki.cloudfront.net/hariomseth/Hariomseth.jpg",
+    best: "https://d35hr0os3yc7ki.cloudfront.net/AnkurTaneja/Ankur.jpg",
+    small: "https://d35hr0os3yc7ki.cloudfront.net/AnkurTaneja/Ankur.jpg",
   },
 
   // Name pronunciation. Set to null to leave out.
-  pronunciation: "https://d35hr0os3yc7ki.cloudfront.net/hariomseth/Hariomseth.mp3",
+  pronunciation: "https://d35hr0os3yc7ki.cloudfront.net/AnkurTaneja/Ankur_audio.mp3",
 
   // Tagline that shows up below the profile picture on the home page and below
   // the name on the business card. Set to null to leave out.
@@ -31,13 +31,13 @@ module.exports = {
   // that sites like FB change their preview. Set to null to leave out.
   openGraph: {
     absolute: true,
-    url: "https://d35hr0os3yc7ki.cloudfront.net/hariomseth/Hariomseth.jpg",
+    url: "https://d35hr0os3yc7ki.cloudfront.net/AnkurTaneja/Ankur.jpg",
   },
 
   // Path to Twitter preview image. Set to null to leave out.
   twitterPreview: {
     absolute: true,
-    url: "https://d35hr0os3yc7ki.cloudfront.net/hariomseth/Hariomseth.jpg",
+    url: "https://d35hr0os3yc7ki.cloudfront.net/AnkurTaneja/Ankur.jpg",
   },
 
   // Links to your other websites.
@@ -72,7 +72,7 @@ module.exports = {
     },
     {
       name: "Save Contact",
-      url: "https://d35hr0os3yc7ki.cloudfront.net/hariomseth/Hariomseth.vcf",
+      url: "https://d35hr0os3yc7ki.cloudfront.net/AnkurTaneja/Ankur_contact.vcf",
       fa: "fas fa-file-alt",
       textColor: "text-yellow-500",
     },
